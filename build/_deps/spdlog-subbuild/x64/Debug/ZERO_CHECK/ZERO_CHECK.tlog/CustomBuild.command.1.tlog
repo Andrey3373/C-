@@ -1,0 +1,10 @@
+^C:\USERS\АНДРЕЙ\DESKTOP\ПРОЕКТЫ\C++\BUILD\_DEPS\SPDLOG-SUBBUILD\CMAKEFILES\92DA7F3B60911EC755BD3A73ACF4503B\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/Андрей/Desktop/Проекты/c++/build/_deps/spdlog-subbuild -BC:/Users/Андрей/Desktop/Проекты/c++/build/_deps/spdlog-subbuild --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/Андрей/Desktop/Проекты/c++/build/_deps/spdlog-subbuild/spdlog-populate.slnx
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

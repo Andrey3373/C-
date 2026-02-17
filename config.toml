@@ -1,0 +1,5 @@
+[main]
+input = './examples/input'
+# output optional; if empty, will use ./output
+output = './examples/output'
+filename_mask = ['level','trade']

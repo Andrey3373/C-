@@ -1,0 +1,10 @@
+^C:\USERS\АНДРЕЙ\DESKTOP\ПРОЕКТЫ\C++\BUILD\CMAKEFILES\E97783573F357DDB568C8E34749AB579\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/Андрей/Desktop/Проекты/c++ -BC:/Users/Андрей/Desktop/Проекты/c++/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/Андрей/Desktop/Проекты/c++/build/csv_median_calculator.slnx
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

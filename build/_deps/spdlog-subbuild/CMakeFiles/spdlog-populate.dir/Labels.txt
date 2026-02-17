@@ -1,0 +1,14 @@
+# Target labels
+ spdlog-populate
+# Source files and their labels
+C:/Users/Андрей/Desktop/Проекты/c++/build/_deps/spdlog-subbuild/CMakeFiles/spdlog-populate
+C:/Users/Андрей/Desktop/Проекты/c++/build/_deps/spdlog-subbuild/CMakeFiles/92da7f3b60911ec755bd3a73acf4503b/spdlog-populate.rule
+C:/Users/Андрей/Desktop/Проекты/c++/build/_deps/spdlog-subbuild/CMakeFiles/f58257e09639b5d62580e21abf75466c/spdlog-populate-complete.rule
+C:/Users/Андрей/Desktop/Проекты/c++/build/_deps/spdlog-subbuild/CMakeFiles/c218f453a7c8362da3bdcf5552cbb395/spdlog-populate-build.rule
+C:/Users/Андрей/Desktop/Проекты/c++/build/_deps/spdlog-subbuild/CMakeFiles/c218f453a7c8362da3bdcf5552cbb395/spdlog-populate-configure.rule
+C:/Users/Андрей/Desktop/Проекты/c++/build/_deps/spdlog-subbuild/CMakeFiles/c218f453a7c8362da3bdcf5552cbb395/spdlog-populate-download.rule
+C:/Users/Андрей/Desktop/Проекты/c++/build/_deps/spdlog-subbuild/CMakeFiles/c218f453a7c8362da3bdcf5552cbb395/spdlog-populate-install.rule
+C:/Users/Андрей/Desktop/Проекты/c++/build/_deps/spdlog-subbuild/CMakeFiles/c218f453a7c8362da3bdcf5552cbb395/spdlog-populate-mkdir.rule
+C:/Users/Андрей/Desktop/Проекты/c++/build/_deps/spdlog-subbuild/CMakeFiles/c218f453a7c8362da3bdcf5552cbb395/spdlog-populate-patch.rule
+C:/Users/Андрей/Desktop/Проекты/c++/build/_deps/spdlog-subbuild/CMakeFiles/c218f453a7c8362da3bdcf5552cbb395/spdlog-populate-test.rule
+C:/Users/Андрей/Desktop/Проекты/c++/build/_deps/spdlog-subbuild/CMakeFiles/c218f453a7c8362da3bdcf5552cbb395/spdlog-populate-update.rule

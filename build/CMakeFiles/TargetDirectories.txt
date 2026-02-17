@@ -1,0 +1,7 @@
+C:/Users/Андрей/Desktop/Проекты/c++/build/CMakeFiles/csv_median_calculator.dir
+C:/Users/Андрей/Desktop/Проекты/c++/build/CMakeFiles/INSTALL.dir
+C:/Users/Андрей/Desktop/Проекты/c++/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Андрей/Desktop/Проекты/c++/build/CMakeFiles/ZERO_CHECK.dir
+C:/Users/Андрей/Desktop/Проекты/c++/build/_deps/spdlog-build/CMakeFiles/spdlog.dir
+C:/Users/Андрей/Desktop/Проекты/c++/build/_deps/spdlog-build/CMakeFiles/INSTALL.dir
+C:/Users/Андрей/Desktop/Проекты/c++/build/_deps/spdlog-build/CMakeFiles/ALL_BUILD.dir

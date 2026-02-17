@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/\u0410\u043d\u0434\u0440\u0435\u0439/Desktop/\u041f\u0440\u043e\u0435\u043a\u0442\u044b/c++/build/_deps/tomlplusplus-subbuild/CMakeFiles/tomlplusplus-populate"
+		},
+		{
+			"file" : "C:/Users/\u0410\u043d\u0434\u0440\u0435\u0439/Desktop/\u041f\u0440\u043e\u0435\u043a\u0442\u044b/c++/build/_deps/tomlplusplus-subbuild/CMakeFiles/6716ef534c588fb9c4c83d8dc4a9c990/tomlplusplus-populate.rule"
+		},
+		{
+			"file" : "C:/Users/\u0410\u043d\u0434\u0440\u0435\u0439/Desktop/\u041f\u0440\u043e\u0435\u043a\u0442\u044b/c++/build/_deps/tomlplusplus-subbuild/CMakeFiles/3e7e782594b1a555eb56cac20b2fd9db/tomlplusplus-populate-complete.rule"
+		},
+		{
+			"file" : "C:/Users/\u0410\u043d\u0434\u0440\u0435\u0439/Desktop/\u041f\u0440\u043e\u0435\u043a\u0442\u044b/c++/build/_deps/tomlplusplus-subbuild/CMakeFiles/e497c1fa32dd59031c9988b84c2ab6bc/tomlplusplus-populate-build.rule"
+		},
+		{
+			"file" : "C:/Users/\u0410\u043d\u0434\u0440\u0435\u0439/Desktop/\u041f\u0440\u043e\u0435\u043a\u0442\u044b/c++/build/_deps/tomlplusplus-subbuild/CMakeFiles/e497c1fa32dd59031c9988b84c2ab6bc/tomlplusplus-populate-configure.rule"
+		},
+		{
+			"file" : "C:/Users/\u0410\u043d\u0434\u0440\u0435\u0439/Desktop/\u041f\u0440\u043e\u0435\u043a\u0442\u044b/c++/build/_deps/tomlplusplus-subbuild/CMakeFiles/e497c1fa32dd59031c9988b84c2ab6bc/tomlplusplus-populate-download.rule"
+		},
+		{
+			"file" : "C:/Users/\u0410\u043d\u0434\u0440\u0435\u0439/Desktop/\u041f\u0440\u043e\u0435\u043a\u0442\u044b/c++/build/_deps/tomlplusplus-subbuild/CMakeFiles/e497c1fa32dd59031c9988b84c2ab6bc/tomlplusplus-populate-install.rule"
+		},
+		{
+			"file" : "C:/Users/\u0410\u043d\u0434\u0440\u0435\u0439/Desktop/\u041f\u0440\u043e\u0435\u043a\u0442\u044b/c++/build/_deps/tomlplusplus-subbuild/CMakeFiles/e497c1fa32dd59031c9988b84c2ab6bc/tomlplusplus-populate-mkdir.rule"
+		},
+		{
+			"file" : "C:/Users/\u0410\u043d\u0434\u0440\u0435\u0439/Desktop/\u041f\u0440\u043e\u0435\u043a\u0442\u044b/c++/build/_deps/tomlplusplus-subbuild/CMakeFiles/e497c1fa32dd59031c9988b84c2ab6bc/tomlplusplus-populate-patch.rule"
+		},
+		{
+			"file" : "C:/Users/\u0410\u043d\u0434\u0440\u0435\u0439/Desktop/\u041f\u0440\u043e\u0435\u043a\u0442\u044b/c++/build/_deps/tomlplusplus-subbuild/CMakeFiles/e497c1fa32dd59031c9988b84c2ab6bc/tomlplusplus-populate-test.rule"
+		},
+		{
+			"file" : "C:/Users/\u0410\u043d\u0434\u0440\u0435\u0439/Desktop/\u041f\u0440\u043e\u0435\u043a\u0442\u044b/c++/build/_deps/tomlplusplus-subbuild/CMakeFiles/e497c1fa32dd59031c9988b84c2ab6bc/tomlplusplus-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"tomlplusplus-populate"
+		],
+		"name" : "tomlplusplus-populate"
+	}
+}

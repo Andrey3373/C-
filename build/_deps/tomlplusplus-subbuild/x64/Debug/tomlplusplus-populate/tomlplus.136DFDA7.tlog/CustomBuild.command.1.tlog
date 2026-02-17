@@ -1,0 +1,152 @@
+^C:\USERS\АНДРЕЙ\DESKTOP\ПРОЕКТЫ\C++\BUILD\_DEPS\TOMLPLUSPLUS-SUBBUILD\CMAKEFILES\E497C1FA32DD59031C9988B84C2AB6BC\TOMLPLUSPLUS-POPULATE-MKDIR.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -Dcfgdir=/Debug -P C:/Users/Андрей/Desktop/Проекты/c++/build/_deps/tomlplusplus-subbuild/tomlplusplus-populate-prefix/tmp/tomlplusplus-populate-mkdirs.cmake
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E touch C:/Users/Андрей/Desktop/Проекты/c++/build/_deps/tomlplusplus-subbuild/tomlplusplus-populate-prefix/src/tomlplusplus-populate-stamp/Debug/tomlplusplus-populate-mkdir
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\АНДРЕЙ\DESKTOP\ПРОЕКТЫ\C++\BUILD\_DEPS\TOMLPLUSPLUS-SUBBUILD\CMAKEFILES\E497C1FA32DD59031C9988B84C2AB6BC\TOMLPLUSPLUS-POPULATE-DOWNLOAD.RULE
+setlocal
+cd C:\Users\Андрей\Desktop\Проекты\c++\build\_deps
+if %errorlevel% neq 0 goto :cmEnd
+C:
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -DCMAKE_MESSAGE_LOG_LEVEL=VERBOSE -P C:/Users/Андрей/Desktop/Проекты/c++/build/_deps/tomlplusplus-subbuild/tomlplusplus-populate-prefix/src/tomlplusplus-populate-stamp/download-tomlplusplus-populate.cmake
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -DCMAKE_MESSAGE_LOG_LEVEL=VERBOSE -P C:/Users/Андрей/Desktop/Проекты/c++/build/_deps/tomlplusplus-subbuild/tomlplusplus-populate-prefix/src/tomlplusplus-populate-stamp/verify-tomlplusplus-populate.cmake
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -DCMAKE_MESSAGE_LOG_LEVEL=VERBOSE -P C:/Users/Андрей/Desktop/Проекты/c++/build/_deps/tomlplusplus-subbuild/tomlplusplus-populate-prefix/src/tomlplusplus-populate-stamp/extract-tomlplusplus-populate.cmake
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E touch C:/Users/Андрей/Desktop/Проекты/c++/build/_deps/tomlplusplus-subbuild/tomlplusplus-populate-prefix/src/tomlplusplus-populate-stamp/Debug/tomlplusplus-populate-download
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\АНДРЕЙ\DESKTOP\ПРОЕКТЫ\C++\BUILD\_DEPS\TOMLPLUSPLUS-SUBBUILD\CMAKEFILES\E497C1FA32DD59031C9988B84C2AB6BC\TOMLPLUSPLUS-POPULATE-UPDATE.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -E echo_append
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E touch C:/Users/Андрей/Desktop/Проекты/c++/build/_deps/tomlplusplus-subbuild/tomlplusplus-populate-prefix/src/tomlplusplus-populate-stamp/Debug/tomlplusplus-populate-update
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\АНДРЕЙ\DESKTOP\ПРОЕКТЫ\C++\BUILD\_DEPS\TOMLPLUSPLUS-SUBBUILD\CMAKEFILES\E497C1FA32DD59031C9988B84C2AB6BC\TOMLPLUSPLUS-POPULATE-PATCH.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -E echo_append
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E touch C:/Users/Андрей/Desktop/Проекты/c++/build/_deps/tomlplusplus-subbuild/tomlplusplus-populate-prefix/src/tomlplusplus-populate-stamp/Debug/tomlplusplus-populate-patch
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\АНДРЕЙ\DESKTOP\ПРОЕКТЫ\C++\BUILD\_DEPS\TOMLPLUSPLUS-SUBBUILD\CMAKEFILES\E497C1FA32DD59031C9988B84C2AB6BC\TOMLPLUSPLUS-POPULATE-CONFIGURE.RULE
+setlocal
+cd C:\Users\Андрей\Desktop\Проекты\c++\build\_deps\tomlplusplus-build
+if %errorlevel% neq 0 goto :cmEnd
+C:
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E echo_append
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E touch C:/Users/Андрей/Desktop/Проекты/c++/build/_deps/tomlplusplus-subbuild/tomlplusplus-populate-prefix/src/tomlplusplus-populate-stamp/Debug/tomlplusplus-populate-configure
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\АНДРЕЙ\DESKTOP\ПРОЕКТЫ\C++\BUILD\_DEPS\TOMLPLUSPLUS-SUBBUILD\CMAKEFILES\E497C1FA32DD59031C9988B84C2AB6BC\TOMLPLUSPLUS-POPULATE-BUILD.RULE
+setlocal
+cd C:\Users\Андрей\Desktop\Проекты\c++\build\_deps\tomlplusplus-build
+if %errorlevel% neq 0 goto :cmEnd
+C:
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E echo_append
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E touch C:/Users/Андрей/Desktop/Проекты/c++/build/_deps/tomlplusplus-subbuild/tomlplusplus-populate-prefix/src/tomlplusplus-populate-stamp/Debug/tomlplusplus-populate-build
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\АНДРЕЙ\DESKTOP\ПРОЕКТЫ\C++\BUILD\_DEPS\TOMLPLUSPLUS-SUBBUILD\CMAKEFILES\E497C1FA32DD59031C9988B84C2AB6BC\TOMLPLUSPLUS-POPULATE-INSTALL.RULE
+setlocal
+cd C:\Users\Андрей\Desktop\Проекты\c++\build\_deps\tomlplusplus-build
+if %errorlevel% neq 0 goto :cmEnd
+C:
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E echo_append
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E touch C:/Users/Андрей/Desktop/Проекты/c++/build/_deps/tomlplusplus-subbuild/tomlplusplus-populate-prefix/src/tomlplusplus-populate-stamp/Debug/tomlplusplus-populate-install
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\АНДРЕЙ\DESKTOP\ПРОЕКТЫ\C++\BUILD\_DEPS\TOMLPLUSPLUS-SUBBUILD\CMAKEFILES\E497C1FA32DD59031C9988B84C2AB6BC\TOMLPLUSPLUS-POPULATE-TEST.RULE
+setlocal
+cd C:\Users\Андрей\Desktop\Проекты\c++\build\_deps\tomlplusplus-build
+if %errorlevel% neq 0 goto :cmEnd
+C:
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E echo_append
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E touch C:/Users/Андрей/Desktop/Проекты/c++/build/_deps/tomlplusplus-subbuild/tomlplusplus-populate-prefix/src/tomlplusplus-populate-stamp/Debug/tomlplusplus-populate-test
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\АНДРЕЙ\DESKTOP\ПРОЕКТЫ\C++\BUILD\_DEPS\TOMLPLUSPLUS-SUBBUILD\CMAKEFILES\3E7E782594B1A555EB56CAC20B2FD9DB\TOMLPLUSPLUS-POPULATE-COMPLETE.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -E make_directory C:/Users/Андрей/Desktop/Проекты/c++/build/_deps/tomlplusplus-subbuild/CMakeFiles/Debug
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E touch C:/Users/Андрей/Desktop/Проекты/c++/build/_deps/tomlplusplus-subbuild/CMakeFiles/Debug/tomlplusplus-populate-complete
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E touch C:/Users/Андрей/Desktop/Проекты/c++/build/_deps/tomlplusplus-subbuild/tomlplusplus-populate-prefix/src/tomlplusplus-populate-stamp/Debug/tomlplusplus-populate-done
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\АНДРЕЙ\DESKTOP\ПРОЕКТЫ\C++\BUILD\_DEPS\TOMLPLUSPLUS-SUBBUILD\CMAKEFILES\6716EF534C588FB9C4C83D8DC4A9C990\TOMLPLUSPLUS-POPULATE.RULE
+setlocal
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\АНДРЕЙ\DESKTOP\ПРОЕКТЫ\C++\BUILD\_DEPS\TOMLPLUSPLUS-SUBBUILD\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/Андрей/Desktop/Проекты/c++/build/_deps/tomlplusplus-subbuild -BC:/Users/Андрей/Desktop/Проекты/c++/build/_deps/tomlplusplus-subbuild --check-stamp-file C:/Users/Андрей/Desktop/Проекты/c++/build/_deps/tomlplusplus-subbuild/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
